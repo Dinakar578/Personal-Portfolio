@@ -37,7 +37,7 @@ const projects = [
     tech: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
     gradient: "from-pink-600 to-purple-600",
     image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80',
-    liveDemo: "https://your-live-demo-link.com",
+    liveDemo: "https://personal-portfolio-pearl-nu-26.vercel.app/",
     github: "https://github.com/yourusername/personal-portfolio"
   },
   {
